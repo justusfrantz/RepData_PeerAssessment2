@@ -1,4 +1,5 @@
-Link on [RPubs]()http://rpubs.com/justusfrantz/RepData_PeerAssessment2)
+Link on [RPubs](http://rpubs.com/justusfrantz/RepData_PeerAssessment2)
+
 My Coursera Repo for [Reproducible Research: Peer Assessment 2](https://github.com/justusfrantz/RepData_PeerAssessment2/)
 
 ### Introduction
